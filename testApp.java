@@ -13,3 +13,4 @@ System.out.println(d.i);//null pointer Exception
 
 	}
 
+}
