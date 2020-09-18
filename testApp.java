@@ -1,5 +1,5 @@
 class A 
-{
+
 	static int j=100;
  int i=50;
 	public static void main(String[] args) 
