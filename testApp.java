@@ -5,7 +5,7 @@ class A
 	public static void main(String[] args) 
 	{
 A b=new B();
-System.out.println(b.j);//100
+System.out.println(b.j;//100
 System.out.println(b.i);//50
 A d=null;
 System.out.println(d.j);//100
