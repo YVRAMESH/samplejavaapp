@@ -11,6 +11,4 @@ A d=null;
 System.out.println(d.j);//100
 System.out.println(d.i);//null pointer Exception
 
-	}
-
-}
+	
